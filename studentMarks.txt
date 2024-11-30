@@ -1,0 +1,11 @@
+10
+1001, Ethan Clark, 14,16,17,78
+1002, Ava Mitchell, 18,19,20,88
+1003, Mason Thomas, 12,14,15,60
+1004, Lily Rodriguez, 10,11,12,50
+1005, Jacob Brown, 16,17,18,82
+1006, Isabella Lee, 15,16,17,70
+1007, Noah Harris, 13,14,13,62
+1008, Mia Wilson, 17,19,18,84
+1009, Lucas Martinez, 14,13,14,58
+1010, Emma Taylor, 19,20,19,90
